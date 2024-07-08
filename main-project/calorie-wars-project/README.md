@@ -1,4 +1,4 @@
-# Calorie Wars in collaboration with Asad Ali, Max Hurst and Ryan Birdi.
+# Calorie Wars.
 
 Calorie wars is a gamified health accountability mobile app.
 
